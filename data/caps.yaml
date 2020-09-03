@@ -1,0 +1,14 @@
+desire_cap_weixin:
+  "platformName": "android"
+  "deviceName": "hogwarts"
+  "appPackage": "com.tencent.wework"
+  "appActivity": ".launch.WwMainActivity"
+  "noReset": "true"
+
+desire_cap_xueqiu:
+  "platformName": "android"
+  "deviceName": "hogwarts"
+  "appPackage": "com.xueqiu.android"
+  "appActivity": ".common.MainActivity"
+  "noReset": "true"
+  "unicodeKeyBoard": "true"
